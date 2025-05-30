@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "53436ec9-122f-45dc-bbdf-4467044b01dd",
+    "name": "Marcus Nicolas",
+    "phone": "(635) 645-8043 x76090",
+    "email": "Michaela87@hotmail.com",
+    "job": "Investor Metrics Officer"
+  },
+  {
+    "id": "b012cd4d-862f-4586-b8ee-ed4f063bb5a4",
+    "name": "Kristen Volkman",
+    "phone": "483.363.6828 x92589",
+    "email": "Virgil.Kihn16@yahoo.com",
+    "job": "Product Communications Producer"
+  },
+  {
+    "id": "880677ec-a071-425f-a01a-3761d2701bd7",
+    "name": "Shannon Franey",
+    "phone": "1-300-478-9231",
+    "email": "Beryl75@gmail.com",
+    "job": "Dynamic Operations Technician"
+  }
+]
